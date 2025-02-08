@@ -1,2 +1,2 @@
 # Today
-class
+Created for classes.
